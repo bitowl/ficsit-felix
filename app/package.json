@@ -37,7 +37,7 @@
     "satisfactory-json": "0.0.58",
     "stats.js": "^0.17.0",
     "streamsaver": "^2.0.5",
-    "three": "0.127.0",
+    "three": "0.130.1",
     "vue": "^2.6.12",
     "vue-class-component": "^7.2.6",
     "vue-golden-layout": "^2.1.1",
